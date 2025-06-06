@@ -65,6 +65,7 @@ Sample console output:
 ```
 
 ## Author & Institution
+Created as part of a concurrent programming coursework.
 - **Author:** Rathnayaka
 - **Institution:** Informatics Institute of Technology (IIT) affiliated by University of Westminster (UoW)
 - **Scenario:** 1 (Concurrent Coffee Shop)
